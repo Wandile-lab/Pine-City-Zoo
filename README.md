@@ -1,5 +1,4 @@
-# Pine-City-Zoo
-# 🦁 Pine City Zoo (WIP)(INCOMPLETE!!)
+# 🦁 Pine City Zoo 
 
 Welcome to the **Pine City Zoo** project! This is a digital brochure-style web app that shares fun facts, history, and details about the animals you can find at Pine City Zoo.
 
@@ -18,3 +17,4 @@ The goal is to help visitors explore the zoo better — from learning about each
 ## ⚙️ Tech Stack
 
 - HTML
+- CSS
